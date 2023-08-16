@@ -1,2 +1,2 @@
-# -Contact-List
+# Contact-List
 Block 26 Workshop
